@@ -4,3 +4,4 @@
 
 # Weaknesses
 - sensitiv to tippos if using git bash
+- first steps in git could be hard
