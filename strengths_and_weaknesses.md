@@ -3,3 +3,4 @@
 - provide the possibility of changing between different versions of the code --> travle in time
 
 # Weaknesses
+- sensitiv to tippos if using git bash
